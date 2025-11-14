@@ -1,4 +1,4 @@
-# EdgeDetectionViewer
+# Edge Detection Viewer
 
 Minimal Android + Native C++ project skeleton with a simple TypeScript web viewer.
 
