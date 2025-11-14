@@ -1,0 +1,11 @@
+{
+  "name": "edge-detection-viewer-web",
+  "version": "1.0.0",
+  "description": "Simple web viewer for Edge Detection frames",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
